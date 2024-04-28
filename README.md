@@ -17,3 +17,6 @@ It contains **Random Forest Regressor** and other models for predicting Taxi Far
 
 # Hierarchical Clustering
 It contains **Hierarchical Clustering** model for understanding of how the variables are linked to each other and will be able to apply hierarchical clustering to determine review types.
+
+# Time Series Modelling
+It contains **Time Series** model for predicting and forecasting the Sales of the Furniture.
