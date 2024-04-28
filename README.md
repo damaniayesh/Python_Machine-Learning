@@ -14,3 +14,6 @@ Implemented Base Decision Tree having accuracy of **97.83%**, then we have Tuned
 
 # Random Forest
 It contains **Random Forest Regressor** and other models for predicting Taxi Fare. Prepared and analyse data. Performed **feature engineering** wherever applicable. Checked the **distribution of key** numerical variables. Trained a Random Forest model and other models with data and check it’s performance along with **hyperparameter tuning**.
+
+# Hierarchical Clustering
+It contains **Hierarchical Clustering** model for understanding of how the variables are linked to each other and will be able to apply hierarchical clustering to determine review types.
