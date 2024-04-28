@@ -11,3 +11,6 @@ Performed Feature Selection using **ResursiveFeatureSelector, SequentialFeatureS
 # Decision Tree
 It contains **Decision Tree Model** and other models like **Extra Trees, Random Forest, KNeighborsClassifier, SVC and Logistic Regression** for **Car Price Prediction**.
 Implemented Base Decision Tree having accuracy of **97.83%**, then we have Tuned the Decision Tree having accuracy of **96.02%**, and lastly we have implemented Logistic regression having accuracy of **64.62%**. Hence, We have conclude that the Base Decision has the Highest Accuracy of **97.83%**.
+
+# Random Forest
+It contains **Random Forest Regressor** and other models for predicting Taxi Fare. Prepared and analyse data. Performed **feature engineering** wherever applicable. Checked the **distribution of key** numerical variables. Trained a Random Forest model and other models with data and check it’s performance along with **hyperparameter tuning**.
